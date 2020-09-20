@@ -16,7 +16,10 @@
 # Результаты процессинга (файл process_results.json)
 ![Результат](https://github.com/ovopilova/dev-intensive-2019/blob/hometask_1/json.PNG)
 
-4. **model_resnet50_7_steps.pth** - файл, содержащий натренированную модель.
+4. **model_resnet50_7_steps.pth** - файл, содержащий натренированную модель. Поскольку его размер 90 мб - его не удалось добавить в гитхаб, поэтому файл необходимо скачать по следующей ссылке:
+
+
+[Откуда скачать загруженную модель](https://drive.google.com/file/d/1DqaJj5tecw45eVyg_dTiTfuox1wrMT6U/view?usp=sharing)
 
 # Используемая нейросеть
 
